@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/simple-react-app/static/css/main.e4f0427b.css",
+    "main.js": "/simple-react-app/static/js/main.4ac0e271.js",
+    "static/media/img.png": "/simple-react-app/static/media/img.36f0ebdd90c5ab09267a.png",
+    "static/media/banana.svg": "/simple-react-app/static/media/banana.676a93856f9147882df093ce2b3ac947.svg",
+    "static/media/dragon.svg": "/simple-react-app/static/media/dragon.f6a386c9fc179eed839109f07994f8da.svg",
+    "static/media/mango.svg": "/simple-react-app/static/media/mango.a2ed7dd2d5ec07640a3a8168cd444daf.svg",
+    "static/media/avocado.svg": "/simple-react-app/static/media/avocado.9af6970e122dddb8f9e6c0961f201211.svg",
+    "static/media/passion.svg": "/simple-react-app/static/media/passion.fedd9f1242ac4f2ce89232819c439c9f.svg",
+    "static/media/apple.svg": "/simple-react-app/static/media/apple.15d6d1a537524863eaa3ccae5249f9b5.svg",
+    "index.html": "/simple-react-app/index.html",
+    "main.e4f0427b.css.map": "/simple-react-app/static/css/main.e4f0427b.css.map",
+    "main.4ac0e271.js.map": "/simple-react-app/static/js/main.4ac0e271.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4f0427b.css",
+    "static/js/main.4ac0e271.js"
+  ]
+}
