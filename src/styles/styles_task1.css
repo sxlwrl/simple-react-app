@@ -1,0 +1,12 @@
+.buttons {
+    margin-top: 20px;
+    display: flex;
+}
+
+.img {
+    max-width: 60vh;
+    height: auto;
+    margin: 0 auto;
+    transition: transform 0.3s ease;
+    transform-origin: top left;
+}

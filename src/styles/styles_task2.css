@@ -1,0 +1,49 @@
+.app {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 2rem;
+    font-family: "Calibri Light", serif;
+}
+
+.goods-card {
+    width: 15rem;
+    height: 20rem;
+    border-radius: 1rem;
+    background: rgba(232, 231, 231, 0.65);
+    margin: 0 2rem 2rem 2rem;
+}
+
+.fruit-image {
+    width: 10rem;
+    display: block;
+    margin: 1rem auto 2rem;
+}
+
+.info {
+    margin-left: 1rem;
+}
+
+.name-container {
+    display: flex;
+    align-items: center;
+    height: 2em;
+}
+
+.rectangle {
+    display: inline-block;
+    width: 0.8em;
+    height: 1.6em;
+    background-color: #8d8def;
+    margin-right: 10px;
+    border-radius: 0.3rem;
+}
+
+.name {
+    color: #8d8def;
+    font-size: 1.6em;
+}
+
+.price {
+    font-size: 1.1em;
+}

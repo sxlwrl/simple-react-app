@@ -1,0 +1,37 @@
+body {
+    font-family: "Times New Roman", serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+:root {
+    --clr-primary: #55106e;
+}
+
+.nav-bar {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.nav {
+  position: relative;
+  padding: 0.5em 1em;
+  color: #000000;
+  font-size: 1.2em;
+  text-align: center;
+  text-decoration: none;
+  font-family: Inter, Arial, serif;
+  font-weight: 600;
+  transition: color 0.3s ease-out;
+}
+
+.nav:hover {
+    color: var(--clr-primary);
+}
