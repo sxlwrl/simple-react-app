@@ -3,8 +3,6 @@ import React from 'react';
 const GoodsCard = (props) => {
     const {image, name, price} = props;
 
-    console.log(props);
-
     return (
         <div className='goods-card'>
             <img className='fruit-image' src={image} alt={name} />

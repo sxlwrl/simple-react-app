@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 
 import GoodsCard from './goodsCard';
 
@@ -50,7 +49,6 @@ const dummyGoodsData = [
 ];
 
 const GoodsGallery = function () {
-    console.log('bogdan loh');
     return (
         <div className='app'>
             {dummyGoodsData.map((item) => (
@@ -59,8 +57,6 @@ const GoodsGallery = function () {
         </div>
     );
 };
-
-// ReactDOM.render(<GoodsGallery/>, document.getElementById('root'));
 
 export default GoodsGallery
 
